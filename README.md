@@ -12,7 +12,6 @@ Feel free to explore, and leave comments/tips in areas you think need imporvemen
 - **Description**: A remake of the hit arcade game, space invader, with a few added personalizations.
 - **Tech Stack**: Python, Eclipse, PyDev, Pygame
 - **Demo/Link**: [Live Demo or Project Link]
-- **Getting Started**: [Link to Installation Instructions]
 
 ---
 
