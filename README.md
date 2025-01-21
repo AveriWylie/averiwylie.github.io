@@ -6,9 +6,9 @@ Feel free to explore, and leave comments/tips in areas you think need imporvemen
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🖥️ [Space Invaders](link-to-repo)
+### [Space Invaders](link-to-repo)
 - **Description**: A remake of the hit arcade game, space invader, with a few added personalizations.
 - **Tech Stack**: Python, Eclipse, PyDev, Pygame
 - **Demo/Link**: [Live Demo or Project Link]
@@ -16,7 +16,7 @@ Feel free to explore, and leave comments/tips in areas you think need imporvemen
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 Here's a list of the tools, and languages I use in my projects:
 
@@ -25,7 +25,7 @@ Here's a list of the tools, and languages I use in my projects:
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always open to new opportunities, feedback, and collaborations. Feel free to reach out!
 
@@ -35,7 +35,7 @@ I'm always open to new opportunities, feedback, and collaborations. Feel free to
 
 ---
 
-## 🤝 Support & Acknowledgments
+## Acknowledgments
 
 I want to express my gratitude to the open-source community and all the contributors to the libraries and tools I use. Special thanks to GitHub for providing this awesome, free tool for any programmer to use!
 
