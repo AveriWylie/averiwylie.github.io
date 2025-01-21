@@ -2,7 +2,7 @@
 
 This is a free source for other programmers, and people, to view my progress (from the software engineering side of things) as a computer scientist. Every game was made in part or entirely by me. Any project created in affilitiation with another programmer will say so.
 
-Feel free to explore, and leave comments/tips in areas you think need imporvement, so don't hesitate to reach out for collaboratory opportunities.
+Feel free to explore, see how all the logic works, and leave comments/tips in areas you think need improvement. Don't hesitate to reach out for collaboratory opportunities!
 
 ---
 
@@ -28,7 +28,7 @@ Here's a list of the tools, and languages I use in my projects:
 
 I'm always open to new opportunities, feedback, and collaborations. Feel free to reach out!
 
-- Email: [averiwylie040706@gmail.com]
+- Email: averiwylie040706@gmail.com
 - LinkedIn: [[Averi Wylie On LinkedIn](https://www.linkedin.com/in/averiwylie/)]
 - Instagram: [[averi.rw](https://www.instagram.com/averi.rw/)]
 
@@ -40,5 +40,5 @@ I want to express my gratitude to the open-source community and all the contribu
 
 ---
 
-Thank you for visiting my profile! Happy coding! 
+Thank you for visiting my profile!
 # averiwylie.github.io
