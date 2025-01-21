@@ -28,7 +28,7 @@ Here's a list of the tools, and languages I use in my projects:
 I'm always open to new opportunities, feedback, and collaborations. Feel free to reach out!
 
 - Email: averiwylie040706@gmail.com
-- LinkedIn: [Averi Wylie On LinkedIn](https://www.linkedin.com/in/averiwylie/)
+- LinkedIn: [Averi Wylie](https://www.linkedin.com/in/averiwylie/)
 - Instagram: [averi.rw](https://www.instagram.com/averi.rw/)
 
 ---
