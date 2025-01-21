@@ -29,9 +29,9 @@ Here's a list of the tools, and languages I use in my projects:
 
 I'm always open to new opportunities, feedback, and collaborations. Feel free to reach out!
 
-- 📧 Email: [averiwylie040706@gmail.com]
-- 💼 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/averiwylie/)]
-- 🐦 Instagram: [[averi.rw](https://www.instagram.com/averi.rw/)]
+- Email: [averiwylie040706@gmail.com]
+- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/averiwylie/)]
+- Instagram: [[averi.rw](https://www.instagram.com/averi.rw/)]
 
 ---
 
@@ -41,5 +41,5 @@ I want to express my gratitude to the open-source community and all the contribu
 
 ---
 
-Thank you for visiting my profile! Happy coding! 💻
+Thank you for visiting my profile! Happy coding! 
 # averiwylie.github.io
