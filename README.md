@@ -30,6 +30,7 @@ I'm always open to new opportunities, feedback, and collaborations. Feel free to
 - Email: averiwylie040706@gmail.com
 - LinkedIn: [Averi Wylie](https://www.linkedin.com/in/averiwylie/)
 - Instagram: [averi.rw](https://www.instagram.com/averi.rw/)
+- LeetCode: [AveriWylie](https://leetcode.com/u/AveriWylie/)
 
 ---
 
