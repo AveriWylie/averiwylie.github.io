@@ -8,7 +8,7 @@ Feel free to explore, see how all the logic works, and leave comments/tips in ar
 
 ## Featured Projects
 
-### [Space Invaders](link-to-repo)
+### [Space Invaders](Project-1---Space-Invaders)
 - **Description**: A remake of the hit arcade game, space invaders, with a few added personalizations, timed High Scores
 - **Colloborators**: Shahyar Anfaz
 - **Tech Stack**: Python, Eclipse, PyDev, Pygame
