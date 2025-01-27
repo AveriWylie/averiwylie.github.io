@@ -9,7 +9,8 @@ Feel free to explore, see how all the logic works, and leave comments/tips in ar
 ## Featured Projects
 
 ### [Space Invaders](link-to-repo)
-- **Description**: A remake of the hit arcade game, space invader, with a few added personalizations.
+- **Description**: A remake of the hit arcade game, space invaders, with a few added personalizations, timed High Scores
+- **Colloborators**: Shahyar Anfaz
 - **Tech Stack**: Python, Eclipse, PyDev, Pygame
 
 ---
@@ -18,8 +19,8 @@ Feel free to explore, see how all the logic works, and leave comments/tips in ar
 
 Here's a list of the tools, and languages I use in my projects:
 
-- **Languages**: Python, C#, C++, HTML
-- **Tools**: Git, GitHub Actions, CI/CD, Postman, VS Code, Jenkins, Eclipse, Pydev, Pygame
+- **Languages**: Python, C#
+- **Tools**: Git, GitHub Actions, Pycharm, Eclipse, Pydev, Pygame
 
 ---
 
