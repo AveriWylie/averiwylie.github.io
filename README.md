@@ -1,6 +1,6 @@
 # Welcome to Averi Wylie's GitHub Portfolio! 
 
-This is a free source for other programmers, and people, to view my progress (from the software engineering side of things) as a computer scientist. Every game was made in part or entirely by me. Any project created in affilitiation with another programmer will say so.
+This is a free source for other programmers, and people, to view my progress as a computer scientist/software developer. Any project created in affilitiation with another programmer will mention their name in the details of the project on this page.
 
 Feel free to explore, see how all the logic works, and leave comments/tips in areas you think need improvement. Don't hesitate to reach out for collaboratory opportunities!
 
