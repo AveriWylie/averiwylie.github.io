@@ -1,4 +1,4 @@
-# Welcome to Averi Wylie's GitHub Portfolio! 
+# Welcome to Averi Wylie's GitHub page: 
 
 This is a free source for other programmers, and people, to view my progress as a computer scientist/software developer. Any project created in affilitiation with another programmer will mention their name in the details of the project on this page.
 
