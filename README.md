@@ -19,7 +19,7 @@ Feel free to explore, see how all the logic works, and leave comments/tips in ar
 
 Here's a list of the tools, and languages I use in my projects:
 
-- **Languages**: Python, C#
+- **Languages**: Python
 - **Tools**: Git, GitHub Actions, Pycharm, Eclipse, Pydev, Pygame
 
 ---
